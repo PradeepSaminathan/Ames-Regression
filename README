@@ -1,2 +1,2 @@
 This repository was created for Kaggle.com - Ames Regression analysis.
-Various Regression models used are Ridge Regressor, Lasso Regressor, Elastic Regressor, Stacking Regressor, Light GBM, SVR, etc.
+Regression models used are Ridge Regressor, Lasso Regressor, Elastic Regressor, Stacking Regressor, Light GBM, SVR, etc.
